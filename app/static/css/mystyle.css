@@ -1,0 +1,40 @@
+.loginBox{
+	width:450px;
+	height:260px;
+	padding:0 20px;
+	border:1px solid #fff;
+	color:#000;
+	margin-top:40px;
+	border-radius:8px;
+	background:	#F5F5F5;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -210px;
+	margin-top: -165px;
+}
+.loginBox h2{
+	height:45px;
+	font-size:20px;
+	font-weight:normal;
+}
+
+.user-gravatar img{
+	height:19px;
+	width:19px;
+	margin-top:-3px;
+	border-radius:50%;
+	vertical-align:middle;
+}
+
+#header-name {
+	margin-top:13px;
+	padding-right: 9px;
+}
+
+.user-role {
+	margin-bottom: 0px;
+	padding:3px 20px;
+	font-weight:400;
+	line-height:1.42857143;
+}
